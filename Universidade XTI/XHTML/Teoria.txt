@@ -11,7 +11,6 @@ html = linguagem mais simplificada
         h1/h6 = Alteração para titulos e sub titluos
         p = paragrafos 
         br = quebra simples de paragrafos 
-        align = alinhamento do texto (center, right, left) 
         b = palavra/frase em negrito
         i = palavra/frase em italico
         u = palavra/frase sublinhado
@@ -23,5 +22,25 @@ html = linguagem mais simplificada
         strong deixa mais enfatico a palavra/frase
         big = aumentar a palavra/frase
         small = diminuir a palavra/frase
+        img = Adicionar uma imagem 
+        l1 = Listas ordenadas
+            ul = lista ordenada por circulos pretos 
+            ol  =lista ordenada por números     
+        dl = Lista de definição
+            dt = Criar termos 
+                dd = definiçoes dos termos  
+        bloquote = Citação em bloco, com estrutura separada 
+        pre = preserva o formato escrito 
+        address = Elemento em bloco, aprensenta informações de contanto do criador do bloco(E mais um estilo)
+        hr = Cria uma quebra de linha acima e a baixo
+        a = Cria um link 
+            href = url do link 
+                taget:blank = Abre o link na pagina diferente
+                target:self = Abre o link na mesma pagina
     style 
         color = coloca alguma cor na palavra/frase hex#000000 ou rgb(0,0,0)
+        width = largura da imagem, o alinhamento da imagem e utilizado o px
+        align = alinhamento do texto (center, right, left), e possivel colocar text-align para alinha o texto  
+ - alinhamento de inlinha e de bloco
+inline = Ocupam apenas a largura do seu conteúdo e podem ser colocadas na mesmo linha que outros elementos 
+bloco = Ocupam toda a largura disponível e iniciam uma nova linha 
