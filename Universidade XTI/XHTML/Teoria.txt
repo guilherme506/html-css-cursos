@@ -1,0 +1,27 @@
+XHTML
+
+html = linguagem mais simplificada
+(x)html = linguagem extensiva de marcação para hipertexto
+
+- Toda tag vem sempre com letra minuscula
+    html = site
+    head = cabeçalho(informações principasi do documento/site)
+        title = titulo do documento/site
+    body = Corpo do site
+        h1/h6 = Alteração para titulos e sub titluos
+        p = paragrafos 
+        br = quebra simples de paragrafos 
+        align = alinhamento do texto (center, right, left) 
+        b = palavra/frase em negrito
+        i = palavra/frase em italico
+        u = palavra/frase sublinhado
+        del = palavra/frase linha na palavra 
+        tt = palavra/frase deixar no mesmo espaço
+        sup = deixar uma parte a cima da palavra
+        sub = deixar uma parte em baixo da palavra 
+        em = deixa em enfase a palavra/frase
+        strong deixa mais enfatico a palavra/frase
+        big = aumentar a palavra/frase
+        small = diminuir a palavra/frase
+    style 
+        color = coloca alguma cor na palavra/frase hex#000000 ou rgb(0,0,0)
